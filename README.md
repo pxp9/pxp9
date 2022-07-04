@@ -36,8 +36,8 @@ let mut me = student {
 ### 📈 Stats
 
 <p>
-  <img src='https://raw.githubusercontent.com/pxp9/github-stats/master/generated/overview.svg#gh-dark-mode-only' alt='overview'</img>
-  <img src='https://raw.githubusercontent.com/pxp9/github-stats/master/generated/languages.svg#gh-dark-mode-only'  alt='languages'</img>
+  <img src='https://raw.githubusercontent.com/pxp9/github-stats-transparent/output/generated/overview.svg' alt='overview'</img>
+  <img src='https://raw.githubusercontent.com/pxp9/github-stats-transparent/output/generated/languages.svg'  alt='languages'</img>
 </p>
 
 
