@@ -14,3 +14,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**Hey there ✌🏻**
+
+Welcome to my Github profile.
+<br>
+
+```rust
+let mut me = student {
+    status : "Studying computer engineering",
+    languages : Langs {
+        favored : vec!["Rust", "C", "Python", "Java"],
+        natural :  HashMap::from([
+                   ("Spanish", "Native"),
+                   ("English", "Medium"),
+                ]),
+    }
+    interests = vec!["tech", "🎵"],
+}
+```
+</br>
+
+### 📈 Stats
+
+<p>
+  <img src='https://raw.githubusercontent.com/pxp9/github-stats/master/generated/overview.svg#gh-dark-mode-only' alt='overview'</img>
+  <img src='https://raw.githubusercontent.com/pxp9/github-stats/master/generated/languages.svg#gh-dark-mode-only'  alt='languages'</img>
+</p>
+
+
+
+Rust is awesome ❤️
+Give it a try.
