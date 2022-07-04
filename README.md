@@ -19,7 +19,7 @@ Welcome to my Github profile.
 <br>
 
 ```rust
-let mut me = student {
+let mut me = Student {
     status : "Studying computer engineering",
     languages : Langs {
         favored : vec!["Rust", "C", "Python", "Java"],
