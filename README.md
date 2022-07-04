@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Hey there ✌🏻**
-
 Welcome to my Github profile.
 <br>
 
