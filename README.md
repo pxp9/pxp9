@@ -28,7 +28,7 @@ let mut me = student {
                    ("English", "Medium"),
                 ]),
     }
-    interests = vec!["tech", "🎵"],
+    interests = vec!["tech", "🎵" , "Star Wars" , "Marvel"],
 }
 ```
 </br>
