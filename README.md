@@ -27,7 +27,7 @@ let mut me = Student {
                    ("Spanish", "Native"),
                    ("English", "Medium"),
                 ]),
-    }
+    },
     interests : vec!["tech", "🎵" , "Star Wars" , "Marvel"],
 }
 ```
