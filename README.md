@@ -20,7 +20,7 @@ Welcome to my Github profile.
 
 ```rust
 let mut me = Student {
-    status : "Studying computer engineering",
+    status : "Studying computer science",
     languages : Langs {
         favored : vec!["Rust", "C", "Python", "Java"],
         natural :  HashMap::from([
