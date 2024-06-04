@@ -25,7 +25,7 @@ let mut me = Student {
         favored : vec!["Rust", "Zig", "Elixir", "Python", "C", "Java"],
         natural :  HashMap::from([
                    ("Spanish", "Native"),
-                   ("English", "Medium"),
+                   ("English", "Medium-high"),
                 ]),
     },
     interests : vec!["tech", "🎵" , "Star Wars" , "Marvel"],
