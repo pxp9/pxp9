@@ -19,16 +19,17 @@ Welcome to my Github profile.
 <br>
 
 ```rust
-let mut me = Student {
-    status : "Studying computer engineering",
+let mut me = ComputerEngineer {
+    status : "Learning new innovative tech!",
     languages : Langs {
         favored : vec!["Rust", "Zig", "Elixir", "Python", "C", "Java"],
         natural :  HashMap::from([
                    ("Spanish", "Native"),
-                   ("English", "Medium-high"),
+                   ("English", "C1"),
+                   ("Russian", "Low-Mid")
                 ]),
     },
-    interests : vec!["tech", "🎵" , "Star Wars" , "Marvel"],
+    interests : vec!["Tech", "🎵" , "Star Wars" , "Marvel", "Sports"],
 }
 ```
 </br>
@@ -42,5 +43,3 @@ let mut me = Student {
 
 
 
-Rust is awesome ❤️
-Give it a try.
